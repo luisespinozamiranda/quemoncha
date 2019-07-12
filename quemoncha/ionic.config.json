@@ -1,5 +1,7 @@
 {
   "name": "quemoncha",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
